@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology"
+    ]
+  ],
+  "legacy_uid": "ecd85be2-ece3-d5af-8904-d01eeda09207",
+  "instructors": {
+    "content": [
+      "eaecee38-a4b1-29ef-abc1-77398f6755e3",
+      "c551a598-a10c-e844-9437-9e2473a6e445",
+      "57ef754a-c4e4-6918-f91b-3c69b5e35ba2",
+      "6e174d1b-36ae-abc0-d0a8-a5ef95f5e7f9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ed1e7a6d-a850-8ac6-6a06-07bd9c3d7f68",
+    "website": "7-18-topics-in-experimental-biology-fall-2005"
+  },
+  "course_title": "Topics in Experimental Biology",
+  "hide_download": true,
+  "course_description": "This independent experimental study course is designed to allow students with a strong interest in independent research to fulfill the project laboratory requirement for the Biology Department Program in the context of a research laboratory at MIT. The research should be a continuation of a previous project under the direction of a member of the Biology Department faculty.\n\nThis course provides instruction and practice in written and oral communication. Journal club discussions are used to help students evaluate and write scientific papers.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.18",
+  "course_image_thumbnail": {
+    "content": "f67836a1-b579-8ec3-3586-f01a3e8fe43d",
+    "website": "7-18-topics-in-experimental-biology-fall-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "31ed7492-47bc-4819-98f0-8928f9078b2e",
+  "site_short_id": "7.18-fall-2005",
+  "site_url_path": "courses/7-18-topics-in-experimental-biology-fall-2005",
+  "title": "Course Metadata"
+}
