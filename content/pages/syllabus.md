@@ -3,8 +3,6 @@ content_type: page
 description: The syllabus section contains course outline, prerequisites and requirements,
   oral presentations and journal paper discussions, final paper and supporting documents,
   and grades for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +17,7 @@ Lectures: 2 sessions / week, 2 hours / session
 Course Outline
 --------------
 
-7.18 is for students who carry out independent research as part of MIT's UROP program to fulfill the Biology Department Project Lab requirement. UROP is MIT's [Undergraduate Research Opportunities Program](http://web.mit.edu/urop/). Although research is carried out in different labs, the regular meetings in class will provide the same educational opportunities and training as those offered by the Project Labs. The goals of this course are to learn the following:
+7.18 is for students who carry out independent research as part of MIT's UROP program to fulfill the Biology Department Project Lab requirement. UROP is MIT's {{% resource_link "71be249f-154c-4e8c-a89e-0274907e6c07" "Undergraduate Research Opportunities Program" %}}. Although research is carried out in different labs, the regular meetings in class will provide the same educational opportunities and training as those offered by the Project Labs. The goals of this course are to learn the following:
 
 *   how to present research, both orally and in writing
 *   the mechanics of writing papers and abstracts

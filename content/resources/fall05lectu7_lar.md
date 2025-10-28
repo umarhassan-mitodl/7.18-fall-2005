@@ -5,8 +5,6 @@ description: This resource contains example of an introduction, background and s
 file: /courses/7-18-topics-in-experimental-biology-fall-2005/dc0046852d7c1dc1fd69e512a0c71921_fall05lectu7_lar.pdf
 file_size: 139385
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

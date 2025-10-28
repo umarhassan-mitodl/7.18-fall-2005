@@ -4,8 +4,6 @@ description: ''
 file: /courses/7-18-topics-in-experimental-biology-fall-2005/109e47a393e3629df4c6ac4e253637d2_lecture_2.pdf
 file_size: 39520
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
